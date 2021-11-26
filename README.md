@@ -4,4 +4,4 @@ Token bucket algorithm is one of the techniques for congestion control algorithm
 The network layer and transport layer share the responsibility for handling congestions. One of the most effective ways to control congestion is trying to reduce the load that transport layer is placing on the network. To maintain this network and transport layers have to work together.
 
 - The Token Bucket Algorithm is diagrammatically represented as follows
-![Token Bucket Algorithm](Images/Screenshot 2021-11-26 at 10.39.13 AM.png)
+![Token Bucket Algorithm](./Images/Screenshot 2021-11-26 at 10.39.13 AM.png)
