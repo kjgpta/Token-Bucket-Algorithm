@@ -22,7 +22,7 @@ Let us understand this algorithm step wise as given below −
 
 
 ### Video
-![Token Bucket Algorithm](./Token_Bucket_Algorithm.mp4)
+![Token Bucket Algorithm](https://youtu.be/66UHjO89C3U)
 
 
 
