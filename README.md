@@ -13,3 +13,17 @@ Let us understand this algorithm step wise as given below −
 2. The bucket has a maximum capacity f.
 3. If the packet is ready, then a token is removed from the bucket, and the packet is sent.
 4. Suppose, if there is no token in the bucket, the packet cannot be sent.
+
+## Simulations
+### Images
+![GUI Simulation](./Images/simulation3.png)
+![Working Simulation Showing transmission of packets of data](./Images/simulation1.png)
+![Working Simulation Showing the final Output of data transmission](./Images/simulation2.png)
+
+
+### Video
+![Token Bucket Algorithm](./Token_Bucket_Algorithm.mp4)
+
+
+
+
